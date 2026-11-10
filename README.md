@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**3QQN/3QQN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate based in Doha, Qatar, looking for entry-level SOC analyst, IT security and IT support roles.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building hands-on blue-team labs (SIEM, log analysis, detection)
+- Completing Ethical Hacker and Networking Basics courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Splunk SSH Brute-Force Detection Lab](https://github.com/3QQN/splunk-ssh-detection-lab): Splunk, SPL, MITRE ATT&CK
+- [Home Cybersecurity Lab](https://github.com/3QQN/home-cybersecurity-lab): Kali, Nmap, Wireshark, Metasploitable
+
+## Skills
+Splunk · SPL · Nmap · Wireshark · Kali Linux · Linux · Windows · TCP/IP · Python
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/m66715562) · [Credly](https://www.credly.com/users/mohammad-aldarawish.5f3ea80a)
