@@ -11,7 +11,7 @@ Cybersecurity graduate based in Doha, Qatar, looking for entry-level SOC analyst
 - [Home Cybersecurity Lab](https://github.com/3QQN/home-cybersecurity-lab): Kali, Nmap, Wireshark, Metasploitable
 
 ## Skills
-Splunk · SPL · Nmap · Wireshark · Kali Linux · Linux · Windows · TCP/IP · Python
+Splunk · SPL · Nmap · Wireshark · Kali Linux · Linux · Windows · TCP/IP 
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/m66715562) · [Credly](https://www.credly.com/users/mohammad-aldarawish.5f3ea80a)
