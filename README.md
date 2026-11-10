@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mohammad Aldarawish 👋
 
 Cybersecurity graduate based in Doha, Qatar, looking for entry-level SOC analyst, IT security and IT support roles.
 
